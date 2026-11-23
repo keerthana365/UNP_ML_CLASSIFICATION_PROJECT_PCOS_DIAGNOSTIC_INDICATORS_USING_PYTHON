@@ -33,4 +33,4 @@ I completed this project as part of my Data Science and Machine Learning Interns
 15. Learning Outcome: Through this collaborative project, I gained practical experience in data preprocessing, exploratory data analysis, feature selection, classification algorithms, neural networks, and model evaluation using Python.
 Google colab file link:https://drive.google.com/file/d/1r6cjzbgojkmVbFBWGuM52Yah9zWFYl-6/view?usp=sharing
 
-Project presentation file link:https://drive.google.com/file/d/1r6cjzbgojkmVbFBWGuM52Yah9zWFYl-6/view?usp=sharing
+Project presentation file link:https://docs.google.com/presentation/d/1Ooo8jomhdLnRRCjeFN0tVqfnxDC7Adkw/edit?usp=sharing&ouid=116769314733795995922&rtpof=true&sd=true
